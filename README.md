@@ -1,5 +1,8 @@
 # ultimate-counter
-A compilation of (mostly) small programs, combined into one big program. Shameless marketing:
+A compilation of (mostly) small programs, combined into one big program.
+1187 lines of code!
+
+Shameless marketing:
 
 Chief guy - Itch - chiefguy.itch.io
 
