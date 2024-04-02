@@ -7,6 +7,7 @@ Website - https://sites.google.com/view/chiefs-games/home
 
 License: The following license is the license for these products:
  - Ultimate Counter
+
 LICENSE:
 
 MIT License
