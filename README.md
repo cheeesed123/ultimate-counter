@@ -1,10 +1,40 @@
-# ultimate-counter
+# [ultimate-counter](main/ultimate-counter.py)
+
 A compilation of (mostly) small programs, combined into one big program.
 1187 lines of code!
 
-Shameless marketing:
+## What you get:
+### Characters:
+ - Letter counter
+ - Word counter
+ - Sentence counter
+### Numbers:
+ - Speed adder
+ - Digit counter
+ - Digit scrambler
+ - Digit reverser
+### Calculator:
+ - Addition
+ - Subtraction
+ - Multiplication
+ - Division
+ - Remainder division
+ - Exponent
+ - Advanced edition
+### Other:
+    
+ - Word repeater
 
-Chief guy - Itch - chiefguy.itch.io
+ - Letter counter - WEIRD EDITION
+
+ - Letter scrambler
+
+ - Letter reverser
+
+ - Palindrome detector
+
+## Shameless marketing:
+Chief guy - Itch - [chiefguy.itch.io](https://chiefguy.itch.io)
 
 Website - https://sites.google.com/view/chiefs-games/home
 
