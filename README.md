@@ -22,26 +22,20 @@ A compilation of (mostly) small programs, combined into one big program.
  - Exponent
  - Advanced edition
 ### Other:
-    
  - Word repeater
-
  - Letter counter - WEIRD EDITION
-
  - Letter scrambler
-
  - Letter reverser
-
  - Palindrome detector
-
 ## Shameless marketing:
 Chief guy - Itch - [chiefguy.itch.io](https://chiefguy.itch.io)
 
 Website - https://sites.google.com/view/chiefs-games/home
 
-License: The following license is the license for these products:
+# License: 
+## The following license is the license for these products:
  - Ultimate Counter
-
-LICENSE:
+## LICENSE:
 
 MIT License
 
